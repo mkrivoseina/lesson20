@@ -5,7 +5,7 @@ for (let i = 2; i < num8; i++) {
        for (let j = 2; j < i; j++) {
            if (i % j === 0) {
                prime = false;
-               continue;
+               break;
            }
        }
        // if number greater than 1 and not divisible by other numbers
