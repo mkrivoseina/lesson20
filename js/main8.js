@@ -1,4 +1,3 @@
-console.log("---Task 8---");
 let num8 = 50;
 let lastprime = 0;
 for (let i = 2; i < num8; i++) {

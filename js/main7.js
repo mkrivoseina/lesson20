@@ -1,5 +1,3 @@
-console.log("---Task 7---");
-
 const num = 5;
 
 let factorial = 1;
